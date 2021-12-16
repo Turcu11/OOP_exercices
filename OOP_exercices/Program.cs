@@ -42,7 +42,7 @@ namespace OOP_exercices
             Person1.LastName = "Turcu";
             Person1.City = "Oradea";
             Person1.Country = "Romania";
-
+            //com
             Person1.PrintDataAboutPerson();
         }
     }
